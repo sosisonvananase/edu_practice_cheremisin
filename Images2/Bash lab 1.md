@@ -11,11 +11,13 @@
 
 ![zero.sh](images2/zero.sh.png)
 
+
 *Рисунок 1 – zero.sh*
 
 ## Шаг 2. start.sh
 
 ![start.sh](images2/start.sh.png)
+
 
 *Рисунок 2 – start.sh*
 
