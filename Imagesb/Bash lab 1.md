@@ -15,19 +15,19 @@
 
 ## Шаг 2. start.sh
 
-![start.sh](imagesb/start.sh.png)
+![start.sh](start.sh.png)
 
 *Рисунок 2 – start.sh*
 
 ## Шаг 3. start_2.sh
 
-![start_2.sh](imagesb/start_2.sh.png)
+![start_2.sh](start_2.sh.png)
 
 *Рисунок 3 – start_2.sh
 
 ## Шаг 4. file.sh
 
-![file.sh](imagesb/file.sh.png)
+![file.sh](file.sh.png)
 
 *Рисунок 4 – file.sh
 
